@@ -64,10 +64,3 @@ app.post('/failure', function(req, res){
 app.listen(process.env.PORT || 3000, function(){
     console.log('Server Setup at Port 3000')
 })
-
-
-//api key
-//b7d75d21cb78e693c322862e162592a0-us17
-
-//audience ID
-//8e8bc2dc01
